@@ -6,7 +6,7 @@ Everyone has access to frontier models, few can reliably turn them into producti
 energy -> hardware -> data -> models -> infra -> [applications] -> value
 
 
-Also: security tooling in Rust, GLSL shaders, AI safety research, too many startup ideas.
+Also: security tooling in Rust, GLSL shaders, AI safety research, prediction markets, some light mech interp work at 16, ex-Team UK for calisthenics, ex-UC Berkeley, ex-fintech intern, heading AI transformations at 250 person orgs at 18.
 
 *Fortitudo in mansuetudine Dei*
 

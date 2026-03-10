@@ -1,6 +1,6 @@
 # JNC4
 
-Building REIUK; an applications layer that can handle chunky projects with high-security needs by pairing devs and AI agents.
+Building REIUK; a centaur applications layer that can handle chunky projects with high-security needs by pairing devs and AI agents.
 Everyone has access to frontier models, few can reliably turn them into production systems. We also do AI transformation work for 250+ person orgs who want to survive the singularity :)
 
 energy -> hardware -> data -> models -> infra -> [applications] -> value

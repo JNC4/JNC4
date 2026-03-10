@@ -1,11 +1,9 @@
 # JNC4
 
 Building REIUK; an applications layer that can handle chunky projects with high-security needs by pairing devs and AI agents.
-Everyone has access to frontier models, nobody can reliably turn them into production systems.
+Everyone has access to frontier models, few can reliably turn them into production systems.
 
-energy → hardware → data → models → infra → [applications] → value
-                                                  ↑
-                                              we are here
+energy -> hardware -> data -> models -> infra -> [applications] -> value
 
 
 Also: security tooling in Rust, GLSL shaders, AI safety research, too many startup ideas.
